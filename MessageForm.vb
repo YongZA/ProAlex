@@ -30,7 +30,7 @@ Public Class MessageForm
     Public Function displayMsg(ByVal msg As String)
 
 
-
+        'S
         lblMsg.Text = msg & "..."
         'Switch = True
 

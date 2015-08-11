@@ -1,7 +1,7 @@
 Imports System.Threading
 
 Public Class MessageForm
-    'hi 
+    'hi  *999
     Dim tmWaiting As Timers.Timer = New Timers.Timer
     Dim Switch As Boolean = False
 

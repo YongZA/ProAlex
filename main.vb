@@ -341,6 +341,7 @@ Public Class Main
 #End Region
 
 
+
     Private Sub Main_Load(sender As Object, e As EventArgs) Handles Me.Load
         MsgForm = New MessageForm()
 
@@ -366,7 +367,7 @@ Public Class Main
 
 
 
-
+        'HIHI
 
         '1.
         Load_Menu()
